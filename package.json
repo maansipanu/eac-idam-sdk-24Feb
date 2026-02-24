@@ -1,0 +1,25 @@
+{
+  "name": "eac-idam-sdk-23feb",
+  "version": "1.0.0",
+  "description": "package dependency",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+   "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metro-digital-inner-source/eac-idam-sdk-23Feb.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "mansi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metro-digital-inner-source/eac-idam-sdk-23Feb/issues"
+  },
+  "homepage": "https://github.com/metro-digital-inner-source/eac-idam-sdk-23Feb#readme"
+}
